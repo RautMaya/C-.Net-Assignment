@@ -1,0 +1,10 @@
+D:\C#.Net Project\InformationForm\InformationForm\bin\Debug\InformationForm.exe.config
+D:\C#.Net Project\InformationForm\InformationForm\bin\Debug\InformationForm.exe
+D:\C#.Net Project\InformationForm\InformationForm\bin\Debug\InformationForm.pdb
+D:\C#.Net Project\InformationForm\InformationForm\obj\Debug\InformationForm.csproj.AssemblyReference.cache
+D:\C#.Net Project\InformationForm\InformationForm\obj\Debug\InformationForm.frm_Information.resources
+D:\C#.Net Project\InformationForm\InformationForm\obj\Debug\InformationForm.Properties.Resources.resources
+D:\C#.Net Project\InformationForm\InformationForm\obj\Debug\InformationForm.csproj.GenerateResource.cache
+D:\C#.Net Project\InformationForm\InformationForm\obj\Debug\InformationForm.csproj.CoreCompileInputs.cache
+D:\C#.Net Project\InformationForm\InformationForm\obj\Debug\InformationForm.exe
+D:\C#.Net Project\InformationForm\InformationForm\obj\Debug\InformationForm.pdb
