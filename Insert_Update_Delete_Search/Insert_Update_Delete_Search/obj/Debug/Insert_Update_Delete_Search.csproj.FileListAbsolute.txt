@@ -1,0 +1,10 @@
+D:\C#.Net Project\Insert_Update_Delete_Search\Insert_Update_Delete_Search\bin\Debug\Insert_Update_Delete_Search.exe.config
+D:\C#.Net Project\Insert_Update_Delete_Search\Insert_Update_Delete_Search\bin\Debug\Insert_Update_Delete_Search.exe
+D:\C#.Net Project\Insert_Update_Delete_Search\Insert_Update_Delete_Search\bin\Debug\Insert_Update_Delete_Search.pdb
+D:\C#.Net Project\Insert_Update_Delete_Search\Insert_Update_Delete_Search\obj\Debug\Insert_Update_Delete_Search.csproj.AssemblyReference.cache
+D:\C#.Net Project\Insert_Update_Delete_Search\Insert_Update_Delete_Search\obj\Debug\Insert_Update_Delete_Search.Frm_Insert_Update_Delete_Search.resources
+D:\C#.Net Project\Insert_Update_Delete_Search\Insert_Update_Delete_Search\obj\Debug\Insert_Update_Delete_Search.Properties.Resources.resources
+D:\C#.Net Project\Insert_Update_Delete_Search\Insert_Update_Delete_Search\obj\Debug\Insert_Update_Delete_Search.csproj.GenerateResource.cache
+D:\C#.Net Project\Insert_Update_Delete_Search\Insert_Update_Delete_Search\obj\Debug\Insert_Update_Delete_Search.csproj.CoreCompileInputs.cache
+D:\C#.Net Project\Insert_Update_Delete_Search\Insert_Update_Delete_Search\obj\Debug\Insert_Update_Delete_Search.exe
+D:\C#.Net Project\Insert_Update_Delete_Search\Insert_Update_Delete_Search\obj\Debug\Insert_Update_Delete_Search.pdb
